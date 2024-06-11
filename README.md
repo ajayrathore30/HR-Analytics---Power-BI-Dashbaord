@@ -14,14 +14,15 @@ We had data from three months, a real dataset of Atliq Hardware Technologies Com
 
 ## Steps followed -
 
-✔ Used MS Excel and Power BI for this project.
+✔ Used MySQL and Power BI for this project.
+✔ Done some data cleaning and data munging.
+✔ Convert this data into Power BI power query for ETL.
 ✔ Crafted calculated columns and measures using DAX language.
 ✔ Mastered data modeling techniques.
-✔ Leveraged Bookmarks to switch between visuals and enabled smooth page navigation with buttons.
 ✔ Implemented divide function for error-free division.
 ✔ Created dynamic date tables using M language.
 ✔ Customized titles based on applied filters.
 ✔ Incorporated KPI indicators and conditional formatting using icons and background colors.
 ✔ Explored data validation techniques.
-✔ Learned about Power BI services, report publishing, personal gateway setup, and app creation.
+✔ Learned about Power BI services and report publishing.
 ✔ Acquired proficiency in collaboration, workspace management, and access permissions on Power BI services.
